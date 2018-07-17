@@ -1,7 +1,7 @@
 import bs4 as bs, urllib.request as url
 from time import sleep
 
-link = "https://www.wattpad.com/373550833-bar-raina-allura-karfe-ce-2016-3"
+link = "https://www.wattpad.com/373550833-bar-raina-allura-karfe-ce-2016-"
 # creating to main file
 novel = open("novel.txt", "w")
 novel.write("Starting file")
